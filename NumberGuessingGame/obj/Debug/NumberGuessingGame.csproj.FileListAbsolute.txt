@@ -1,0 +1,9 @@
+C:\Users\madhirab\source\repos\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\madhirab\source\repos\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\madhirab\source\repos\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\madhirab\source\repos\NumberGuessingGame\obj\Debug\NumberGuessingGame.csprojAssemblyReference.cache
+C:\Users\madhirab\source\repos\NumberGuessingGame\obj\Debug\NumberGuessingGame.NumberGuessingGame.resources
+C:\Users\madhirab\source\repos\NumberGuessingGame\obj\Debug\NumberGuessingGame.Properties.Resources.resources
+C:\Users\madhirab\source\repos\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.GenerateResource.cache
+C:\Users\madhirab\source\repos\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\madhirab\source\repos\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
